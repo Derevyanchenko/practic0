@@ -1,0 +1,14 @@
+// header
+
+.header {
+	width: 100%;
+	min-height: 250px;
+	height: auto;
+	background: url(../img/header-img.jpg) no-repeat top center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	.logo {
+		padding-top: 29px;
+		display: block;
+	}
+}
